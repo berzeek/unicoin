@@ -1,3 +1,5 @@
+By Brandon Zeek
+
 Unicoin (SMC) - a 'faster' version of Litecoin which also uses scrypt
 as a proof of work scheme and is intended for microtransactions.
  - 15 seconds block targets: beat that MinCoin! ;)
